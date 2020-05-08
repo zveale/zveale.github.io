@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Zachary Veale, Launches Site"
+title: "Need to add projects"
 date: 2020-05-07
 ---
 
-Created a website with Hank Quinlan Tutorial - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
+powered by [Jekyll](http://jekyllrb.com)
