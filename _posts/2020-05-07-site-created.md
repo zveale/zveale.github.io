@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Need to add projects"
+title: "Need projects"
 date: 2020-05-07
 ---
 
