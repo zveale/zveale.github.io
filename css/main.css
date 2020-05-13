@@ -4,7 +4,7 @@ body {
     width: 70%;
 }
 
-.profilePhoto {
+.container .profilePhoto {
 	width: 1000px;
 	height: 1000px;
 	background: red;
