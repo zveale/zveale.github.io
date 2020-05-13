@@ -8,7 +8,6 @@ body {
 	width: 1000px;
 	height: 1000px;
 	background: red;
-	background-image: url("ProfilePhoto.png");
 	background-size: 100%;
 }
 .profilePhoto figure {
