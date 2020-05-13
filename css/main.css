@@ -5,17 +5,14 @@ body {
 }
 
 .profilePhoto {
-	background: white;
-}
-.profilePhoto figure {
-	background: red;
-	margin: auto;
-}
-.profilePhoto figure img {
 	width: 60px;
 	height: 60px;
 	background-image: url("/assets/ProfilePhoto.png");
 	background-size: 100%;
+}
+.profilePhoto figure {
+	background: red;
+	margin: auto;
 }
 
 
