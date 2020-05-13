@@ -4,13 +4,13 @@ body {
     width: 70%;
 }
 
-.ProfilePhoto {
+.profilePhoto {
 	width: 60px;
 	height: 60px;
 	background-image: url("/assets/ProfilePhoto.png");
 	background-size: 100%;
 }
-.ProfilePhoto figure {
+.profilePhoto figure {
 	background: red;
 	margin: auto;
 }
