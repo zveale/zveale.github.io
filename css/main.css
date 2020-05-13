@@ -13,8 +13,9 @@ body {
 }
 .profilePhoto figure img {
 	width: 60px;
-	height: 60px
-	background-image: url("/assets/ProfilePhoto.png")
+	height: 60px;
+	background-image: url("/assets/ProfilePhoto.png");
+	background-size: 100%;
 }
 
 
