@@ -3,7 +3,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-profileImage {
+header .profileImage {
   border: 1px solid #ddd;
   border-radius: 40%;
   padding: 5px;
