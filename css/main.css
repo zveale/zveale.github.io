@@ -4,13 +4,13 @@ body {
     width: 70%;
 }
 
-.container .profilePhoto {
+.container .ProfilePhoto {
 	width: 60px;
 	height: 60px;
 	background-image: url("/assets/ProfilePhoto.png");
 	background-size: 100%;
 }
-.profilePhoto figure {
+.container .ProfilePhoto figure {
 	background: red;
 	margin: auto;
 }
