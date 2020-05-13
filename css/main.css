@@ -5,8 +5,8 @@ body {
 }
 
 .profilePhoto {
-	width: 100px;
-	height: 100px;
+	width: 1000px;
+	height: 1000px;
 	background: red;
 	background-image: url("assets/ProfilePhoto.png");
 	background-size: 100%;
