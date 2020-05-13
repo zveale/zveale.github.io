@@ -5,9 +5,9 @@ body {
 }
 profileImage {
   border: 1px solid #ddd;
-  border-radius: 40px;
+  border-radius: 40%;
   padding: 5px;
-  width: 150px;
+  width: 50px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
