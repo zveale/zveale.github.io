@@ -15,7 +15,7 @@ body {
 	border-radius: 50%;
 	margin: auto;
 	align-items: center;
-	justify-content: center
+	justify-content: center;
 }
 .container .intercomPhoto {
 	width: 800px;
@@ -27,7 +27,7 @@ body {
 	border-radius: 10%;
     margin: auto;
 	align-items: center;
-	justify-content: center
+	justify-content: center;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
