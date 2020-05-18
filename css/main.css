@@ -2,7 +2,6 @@ body {
     background-image: radial-gradient(circle, #000000, #4d4d4d, #a6a6a6);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position: center;
     margin: auto;
     max-width: 400px;
 	text-align: center;
@@ -22,6 +21,7 @@ nav ul {
     padding-top: 60px;
     list-style: none;
     font-weight: bold;
+	margin: 20px;
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
