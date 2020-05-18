@@ -2,7 +2,7 @@ body {
     background-image: radial-gradient(circle, #000000, #4d4d4d, #a6a6a6);
 	background-repeat: no-repeat;
     margin: auto;
-    max-width: 500px;
+    max-width: 400px;
 	text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 60px;
+    padding-top: 60px;
     list-style: none;
     font-weight: bold;
 	color: white;
