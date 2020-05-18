@@ -20,9 +20,11 @@ body {
 	height: 400px;
 	background-repeat: no-repeat;
 	background-image: url("/assets/intercom.png");
-	background-size: 90%;
+	background-size: 100%;
 	border: 4px solid #ddd;
 	border-radius: 5%;
+	margin-up: auto;
+    margin-down: auto;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
