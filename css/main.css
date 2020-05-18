@@ -16,8 +16,8 @@ body {
 	margin: auto;
 }
 .container .intercomPhoto {
-	width: 400px;
-	height: 200px;
+	width: 600px;
+	height: 400px;
 	background-repeat: no-repeat;
 	background-image: url("/assets/intercom.png");
 	background-size: 100%;
