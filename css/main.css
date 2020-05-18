@@ -52,7 +52,6 @@ a {
 	font-size: 2em;
 	color: white;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-	text-align: left;
 }
 a:hover {
 	color: white;
@@ -71,7 +70,7 @@ h2 {
 	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #000;
 	color: white;
