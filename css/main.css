@@ -26,9 +26,8 @@ body {
 	background-position: center;
 	border: 4px solid #ddd;
 	border-radius: 10%;
-	margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+	margin-up: auto;
+    margin: auto;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
