@@ -27,7 +27,7 @@ footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
     list-style: none;
-	line-height: 20px;
+	line-height: 100px;
     font-weight: bold;
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
