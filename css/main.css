@@ -20,12 +20,12 @@ body {
 	height: 400px;
 	background-repeat: no-repeat;
 	background-image: url("/assets/intercom.png");
-	background-size: 100%;
+	background-size: 90%;
 	border: 4px solid #ddd;
 	border-radius: 5%;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 90%;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
