@@ -15,7 +15,7 @@ body {
 	border-radius: 20%;
 	margin: 0 auto;
 }
-.container .profilePhoto {
+.container .intercomPhoto {
 	width: 200px;
 	height: 200px;
 	background-image: url("/assets/ProfilePhoto.png");
