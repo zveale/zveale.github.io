@@ -26,6 +26,7 @@ nav ul {
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
+	padding-top: 20px;
     list-style: none;
     font-weight: bold;
 	color: white;
