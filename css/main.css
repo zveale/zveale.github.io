@@ -84,7 +84,7 @@ h2 {
 	color: white;
 	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
 }
-p.info {
+.info {
     font-size: 1.1em;
     line-height: 1.4em;
     color: #000;
