@@ -96,6 +96,18 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+q {
+    font-size: 1.1em;
+    line-height: 1.4em;
+    color: #000;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    max-width: 600px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
 footer {
     border-top: 2px solid #fff;
 	max-width: 400px;
