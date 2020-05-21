@@ -72,7 +72,7 @@ a:hover {
 	color: white;
     text-decoration: underline;
 }
-a .links {
+a .container .links {
     text-decoration: none;
     color: #000;
 	line-height: 1.2em;
