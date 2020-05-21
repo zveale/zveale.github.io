@@ -72,6 +72,15 @@ a:hover {
 	color: white;
     text-decoration: underline;
 }
+a .links {
+    text-decoration: none;
+    color: #000;
+	line-height: 1.2em;
+	font-size: 1.2em;
+	margin-right: 20px;
+	color: white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
