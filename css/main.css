@@ -60,7 +60,7 @@ footer ul li {
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-a .container .links {
+.container .links {
     text-decoration: none;
     color: #000;
 	line-height: 1.2em;
