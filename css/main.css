@@ -30,6 +30,21 @@ body {
     margin-right: auto;
 	justify-content: center
 }
+.container .armoredFairwayPhoto {
+	width: 800px;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-image: url("/assets/Intercom.png");
+	background-size: 100%;
+	border: 4px solid #ddd;
+	border-radius: 5%;
+	max-width: 800px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+	justify-content: center
+}
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding-top: 60px;
