@@ -6,7 +6,12 @@ body {
     margin: auto;
 	width: 800px;
 	border-radius:25px;
+	border-radius: 50%;
 	color: red;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+	justify-content: center
 }
 .container .profilePhoto {
 	width: 200px;
