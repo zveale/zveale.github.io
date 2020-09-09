@@ -6,6 +6,9 @@ body {
     margin: auto;
 	width: 800px;
 	border-radius:25px;
+	padding: 15px;
+	background: lightblue;
+	background-clip: padding-box;
 }
 .container .profilePhoto {
 	width: 200px;
