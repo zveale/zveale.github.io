@@ -7,9 +7,8 @@ body {
 	width: 800px;
 	border-radius:25px;
 	padding: 15px;
-	background: red;
+	color: red;
 	background-clip: padding-box;
-	background-color: red;
 }
 .container .profilePhoto {
 	width: 200px;
