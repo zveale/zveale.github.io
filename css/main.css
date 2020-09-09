@@ -1,17 +1,15 @@
 body {
-	
 	border: solid 1px #555;
-	box-shadow: 0px 0px 170px 11px lightblue;
+	box-shadow: 0px 0px 170px 11px blue;
 	text-align: center;
     margin: auto;
 	width: 800px;
 	border-radius:25px;
-	border-radius: 50%;
-	color: red;
-	background-size: 100%;
-	background-repeat: no-repeat;
-	justify-content: center;
+	border: 4px solid #ddd;
+	background-color: black;
+	padding: 25px;
 }
+
 .container .profilePhoto {
 	width: 200px;
 	height: 200px;
